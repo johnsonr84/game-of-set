@@ -55,6 +55,12 @@ https://game-of-set-sigma.vercel.app/
 <tr>
     <td><img src="game-of-set-example.png" height=400 alt="screenshot of game-of-set"></td>
 </tr>
+<tr>
+    <td>Game Of Set Deck Of 81 Cards</td>
+</tr>
+<tr>
+    <td><img src="game-of-set-cards.png" height=400 alt="screenshot of game-of-set"></td>
+</tr>
 </table>
 
 ## Technologies

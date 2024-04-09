@@ -61,6 +61,7 @@ https://game-of-set-sigma.vercel.app/
 
 ```
 React
+```
 
 ## Installation
 

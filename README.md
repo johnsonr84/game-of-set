@@ -43,7 +43,7 @@ For any set, the number of features that are constant (the same on all three car
 https://github.com/johnsonr84/game-of-set
 
 ## Deployment
-
+https://game-of-set-sigma.vercel.app/
 
 
 ## Demo/Screenshots
@@ -68,7 +68,7 @@ Access to GitHub.com and a code editor such as vscode is necessary. Click the Gi
 
 ## Usage
 
-In order to use this APP, you need terminal (mac: pre-installed) or gitbash (pc: must be installed). You also need to download and install [node.js](https://nodejs.org/en/) and [npm](www.npmjs.com) or [yarn](https://yarnpkg.com/) package manager. Open the cloned REPO in your favorite code editor, and then in terminal, enter the command “npm i“ or “yarn add”  to install the dependencies. Now you are ready to start using  the app by entering “npm start” on your terminal or gitbash. If you just want to try how the app works, you can go to the link [here](https://)
+In order to use this APP, you need terminal (mac: pre-installed) or gitbash (pc: must be installed). You also need to download and install [node.js](https://nodejs.org/en/) and [npm](www.npmjs.com) or [yarn](https://yarnpkg.com/) package manager. Open the cloned REPO in your favorite code editor, and then in terminal, enter the command “npm i“ or “yarn add”  to install the dependencies. Now you are ready to start using  the app by entering “npm start” on your terminal or gitbash. If you just want to try how the app works, you can go to the link [here](https://game-of-set-sigma.vercel.app/)
 
 ## Credits
 
